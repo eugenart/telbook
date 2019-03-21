@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AddressBook>
+    <Contact>
+        <LastName>Арташкин</LastName>
+        <FirstName>Евгений</FirstName>
+        <Phone>
+            <phonenumber>1223</phonenumber>
+            <accountindex>1</accountindex>
+            <downloaded>0</downloaded>
+        </Phone>
+    </Contact>
+    <Contact>
+        <LastName>Рогов</LastName>
+        <FirstName>Александр</FirstName>
+        <Phone>
+            <phonenumber>1222</phonenumber>
+            <accountindex>1</accountindex>
+            <downloaded>0</downloaded>
+        </Phone>
+    </Contact>
+    <Contact>
+        <LastName>Коровин</LastName>
+        <FirstName>Антон</FirstName>
+        <Phone>
+            <phonenumber>1220</phonenumber>
+            <accountindex>1</accountindex>
+            <downloaded>0</downloaded>
+        </Phone>
+    </Contact>
+</AddressBook>
